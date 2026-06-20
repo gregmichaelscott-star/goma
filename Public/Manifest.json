@@ -1,0 +1,9 @@
+{
+  "name": "GOMA",
+  "short_name": "GOMA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2E2C29",
+  "theme_color": "#2E2C29",
+  "icons": []
+}
